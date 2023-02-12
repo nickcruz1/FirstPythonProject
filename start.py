@@ -24,3 +24,5 @@ print(y)
 print("**********")
 print("***HI*****")
 print("*Nick*****")
+
+openIt = open("demo.txt", "rt")
