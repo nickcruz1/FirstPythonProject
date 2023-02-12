@@ -17,3 +17,10 @@ x = {"name": "John", "age": 30}  # dict
 
 y = True  # bool
 print(y)
+
+
+# Picture of a Person Smiling
+
+print("**********")
+print("***HI*****")
+print("*Nick*****")
