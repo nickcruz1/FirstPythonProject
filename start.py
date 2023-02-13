@@ -11,7 +11,7 @@
 
 # x = 1j  # Complex
 
-# x = ["apple", "banana", "cherry", 5]  # list
+# x = ["apple", "banana", "cherry", 5, True]  # list
 
 # x = {"name": "John", "age": 30}  # dict
 
