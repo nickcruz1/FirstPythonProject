@@ -26,7 +26,7 @@
 # print("*Nick*****")
 
 # Figure out opening, reading, writing files etc 
+
+# How to open file and print contents of file?
 openIt = open("demo.txt", "rt")
-
-
 print(openIt)
