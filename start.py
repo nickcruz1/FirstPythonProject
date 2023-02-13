@@ -1,4 +1,4 @@
-# # Start of First Python File - My Python Reference
+# # Start of First Python File - My Python Reference (Create small project at the bottom of it?)
 
 # # Creating a variable
 # x = 10
