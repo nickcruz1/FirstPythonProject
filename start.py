@@ -1,3 +1,4 @@
+import mysql.connector
 import json
 
 
@@ -37,3 +38,12 @@ theData = {
 }
 
 print("Hello Python World ")
+
+
+mydb = mysql.connector.connect(
+    host="localhost",
+    user="yourusername",
+    password="yourpassword"
+)
+
+print(mydb)
