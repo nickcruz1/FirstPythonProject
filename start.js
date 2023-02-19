@@ -1,8 +1,15 @@
-// Pull Python File Using JavaScript
+// Pull Python File Into index.html file Using JavaScript
 
 function pullPython() {
-let pull = document.querySelector(".pythonData");
 
 
+let file = "start.py";
+
+
+fetch (file)
+.then(x => x.text())
+.then(y => document.getElementById("demo").innerHTML = y);
 
 }
+
+

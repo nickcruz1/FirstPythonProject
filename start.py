@@ -1,3 +1,6 @@
+import json
+
+
 # # Start of First Python File - My Python Reference
 
 # # Creating a variable
@@ -25,9 +28,12 @@
 # print("***HI*****")
 # print("*Nick*****")
 
+
 theData = {
     "name": "Nick",
     "model": "Subaru",
     "year": 400,
     "isIt": True
 }
+
+print("Hello Python World ")
